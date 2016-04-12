@@ -7,10 +7,10 @@
 	 
 	 <!-- versionCode is optional and Android only -->
 	 
-	 <name>Aplicacion Dos Semana Santa</name>
+	 <name>Aplicacion dos semana santa</name>
 	 
 	 <description>
-	      Aplicacion que muestra la celebraion de la Semana Santa
+	      Aplicacion que muestra la semana santa
 	 </description>
 	
 	<preference name="phonegap-version" value="3.1.0"/>
